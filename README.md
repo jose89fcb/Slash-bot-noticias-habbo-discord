@@ -2,6 +2,12 @@ Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-3
 <br>
 Como usar la configuracion:
 ABRIR EL ARCHIVOS config.json
+
+comando => Añade cualquier cosa ejemplo "!" => "*" => ">"
+
+
+
+token_discord => Debes de añadir el token de discord, obten uno en: => https://discord.com/developers/applications
 <br>
 <br>
 Comando para usar el bot:
