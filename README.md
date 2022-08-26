@@ -3,7 +3,7 @@ Necesitas instalar python 3.7: https://www.python.org/downloads/release/python-3
 Como usar la configuracion:
 ABRIR EL ARCHIVOS config.json
 
-comando => Añade cualquier cosa ejemplo "!" => "*" => ">"
+comando => Añade cualquier cosa ejemplo "!" => "*" => ">" ##Este comando no se usara
 
 
 
