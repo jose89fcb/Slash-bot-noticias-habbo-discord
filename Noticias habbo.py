@@ -116,7 +116,7 @@ async def _noticias(ctx:SlashContext, hotel:str):
     imagen = soup.find_all('img')[2]
     imagenPeque = soup.find_all('img')[3]
 
-    urlNoticia = soup.find_all('a')[3]
+    urlNoticia = soup.find_all('a', class_="news-header__link news-header__banner")[1]
 
     descripcion = soup.find_all('p', class_='news-header__wrapper news-header__summary')[1].text 
     #####
